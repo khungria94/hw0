@@ -2,6 +2,8 @@
 
 * Assigned: Sep 9
 * Due: 9/14 10AM
+Oh hi
+
 
 
 The goal of this assignment is for you to set up Microsoft Azure.
