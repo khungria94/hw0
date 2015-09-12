@@ -2,7 +2,7 @@
 
 * Assigned: Sep 9
 * Due: 9/14 10AM
-Oh hi
+Oh hi all
 
 
 
